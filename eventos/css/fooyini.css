@@ -18,12 +18,12 @@ footer div{
     font-weight: bold;
 }
 
-header{
-    display:flex;
+header {
+    display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 30px;
-    background: white;
-    border-radius: 15px 15px 0 0;
-    border-bottom: 3px solid #3ac7a7;
+    height: 130px !important;
+    padding: 0 40px !important;
+    background-color: white;
+    border-bottom: 4px solid #1a8770;
 }
